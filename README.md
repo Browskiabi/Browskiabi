@@ -16,15 +16,5 @@
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Browskiabi&show_icons=true&theme=dark&hide_border=true)
-
----
-
-## 🧠 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Browskiabi&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 📈 Goal
 Build a strong foundation in programming.
